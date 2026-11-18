@@ -67,11 +67,11 @@ The ICESat-2 download takes about one to two hours for all ten cities; Earth Eng
 
 ## Use of AI tools
 
-An AI assistant (Claude, Anthropic) helped design the workflow and write and debug the code. The author checked all code and outputs.
+An AI assistant (Claude, Anthropic) helped write and the debug the code while the author checked all code and outputs. 
 
 ## Licence
 
-Code: [choose a licence, e.g. MIT]. Input datasets keep their own licences.
+Code: MIT. Input datasets keep their own licences.
 
 ## Citation
 
