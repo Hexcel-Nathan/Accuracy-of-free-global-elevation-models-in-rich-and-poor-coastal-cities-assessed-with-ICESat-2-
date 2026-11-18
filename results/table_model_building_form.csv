@@ -1,0 +1,13 @@
+land,dem,model,poor_vs_rich,ci_low,ci_high,p_poor,city_spread,per_1m_taller,p_height,per_10pct_denser,p_density
+All land,cop,without building form,1.023,0.957,1.094,0.5,0.003,,,,
+All land,cop,with building form,1.023,0.958,1.092,0.493,0.003,1.026,0.0,1.065,0.0
+All land,delta,without building form,1.166,0.872,1.559,0.299,0.055,,,,
+All land,delta,with building form,1.166,0.872,1.561,0.301,0.055,1.003,0.0,0.977,0.0
+All land,fab,without building form,1.145,0.945,1.386,0.167,0.024,,,,
+All land,fab,with building form,1.144,0.946,1.385,0.165,0.024,1.01,0.0,0.976,0.0
+Built-up,cop,without building form,1.142,0.911,1.431,0.248,0.033,,,,
+Built-up,cop,with building form,1.051,0.864,1.279,0.62,0.025,1.027,0.0,1.09,0.0
+Built-up,delta,without building form,1.261,0.93,1.71,0.136,0.06,,,,
+Built-up,delta,with building form,1.299,0.942,1.791,0.111,0.067,0.992,0.0,0.965,0.0
+Built-up,fab,without building form,1.174,0.939,1.468,0.159,0.032,,,,
+Built-up,fab,with building form,1.159,0.944,1.424,0.159,0.027,1.009,0.0,1.0,0.967

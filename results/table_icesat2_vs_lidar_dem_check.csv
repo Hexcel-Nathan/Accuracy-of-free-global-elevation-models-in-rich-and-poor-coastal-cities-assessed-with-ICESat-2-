@@ -1,0 +1,16 @@
+city,dem,nmad_vs_icesat2,nmad_vs_lidar,le90_vs_icesat2,le90_vs_lidar
+houston,cop,1.66,1.59,4.16,4.01
+houston,fab,0.78,0.72,1.99,1.73
+houston,delta,0.35,0.32,1.09,0.9
+london,cop,1.64,1.58,4.82,4.65
+london,fab,1.04,0.99,2.52,2.19
+london,delta,0.72,0.67,2.27,1.97
+los_angeles,cop,1.3,1.2,3.53,3.28
+los_angeles,fab,0.68,0.63,2.01,1.68
+los_angeles,delta,0.5,0.45,1.6,1.41
+miami,cop,1.38,1.31,3.83,3.68
+miami,fab,0.75,0.67,2.0,1.6
+miami,delta,0.29,0.27,1.08,0.8
+new_york,cop,2.05,1.97,5.83,5.86
+new_york,fab,1.2,1.11,3.21,2.75
+new_york,delta,0.82,0.73,2.74,2.2

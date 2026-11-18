@@ -1,0 +1,25 @@
+dem,landcover,group,n,bias_m,median_m,rmse_m,nmad_m,le90_m
+cop,Bare,poor,4934.0,0.08,0.04,1.86,1.07,2.84
+cop,Bare,rich,2846.0,0.58,0.33,2.3,1.22,3.46
+cop,Built-up,poor,29157.0,2.12,1.61,3.3,1.73,5.09
+cop,Built-up,rich,56642.0,1.7,1.43,2.74,1.38,4.03
+cop,Low vegetation,poor,10181.0,0.53,0.29,1.57,0.83,2.21
+cop,Low vegetation,rich,16984.0,0.84,0.5,1.79,1.01,2.75
+cop,Trees,poor,10696.0,2.9,2.06,4.28,2.58,7.3
+cop,Trees,rich,18332.0,3.29,2.64,4.52,2.03,6.72
+delta,Bare,poor,4296.0,-0.23,-0.17,1.12,0.6,1.63
+delta,Bare,rich,2504.0,-0.16,-0.14,1.61,0.66,2.09
+delta,Built-up,poor,28978.0,-0.36,-0.16,1.32,0.65,2.08
+delta,Built-up,rich,56113.0,0.02,0.02,1.38,0.52,1.94
+delta,Low vegetation,poor,9684.0,-0.17,-0.12,0.92,0.47,1.31
+delta,Low vegetation,rich,16118.0,0.1,0.01,1.05,0.5,1.42
+delta,Trees,poor,10445.0,0.19,0.02,1.35,0.5,1.93
+delta,Trees,rich,18193.0,0.38,0.05,1.56,0.51,2.33
+fab,Bare,poor,4934.0,-0.37,-0.25,1.55,0.85,2.43
+fab,Bare,rich,2846.0,0.35,0.15,2.35,0.89,2.77
+fab,Built-up,poor,29157.0,0.14,0.02,1.58,1.12,2.42
+fab,Built-up,rich,56642.0,0.34,0.34,1.54,0.84,2.16
+fab,Low vegetation,poor,10181.0,0.3,0.16,1.38,0.84,1.96
+fab,Low vegetation,rich,16984.0,0.52,0.36,1.38,0.76,1.99
+fab,Trees,poor,10696.0,1.61,0.96,2.87,1.58,4.77
+fab,Trees,rich,18332.0,1.25,0.97,2.2,1.12,3.27
