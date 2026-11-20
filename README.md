@@ -29,8 +29,8 @@ Analysis is limited to urban land below 10 m (selected by ICESat-2 height). Erro
 | --- | --- |
 | `T17_DEM_accuracy_coastal_cities.ipynb` | The full analysis, from data download to figures |
 | `requirements.txt` | Python packages used |
-| `results/` | Output tables (`table_*.csv`) [add from Google Drive] |
-| `figures/` | Figures 1–3 (`fig*.png`) [add from Google Drive] |
+| `results/` | Output tables (`table_*.csv`) |
+| `figures/` | Figures 1–3 (`fig*.png`) |
 
 Larger intermediate files (ICESat-2 point files, sampled points) are archived at [Zenodo DOI].
 
